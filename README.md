@@ -1,4 +1,5 @@
 # Welcome to MY FIRST REPOSITORY - Math util project
+![GitHub repo size](https://img.shields.io/github/repo-size/Benny20/math-util-live)
 
 ## You will find in this repo:
 
